@@ -17,14 +17,16 @@
 ## 🚀 Selected projects
 ### [To-Do App](https://github.com/hemantkulhari1/To-Do-App)  
 A simple but polished to-do app with local storage & clean UI.  
-![todo-screenshot](todo-app-UI.png)
+<img src="images/todo-app-UI.png" alt="To-Do App UI" width="600">
 
 ### [BlogBase](https://github.com/hemantkulhari1/BlogBase)  
 Static blog with markdown support and responsive layout.
-![todo-screenshot](link-to-screenshot.png)
-![todo-screenshot](link-to-screenshot.png)
-![todo-screenshot](link-to-screenshot.png)
-![todo-screenshot](link-to-screenshot.png)
+<div align="center">
+  <img src="images/UI Images/userRegister.png" alt="User Register page" width="24%">
+  <img src="images/UI Images/userLogin.png" alt="User Login page" width="24%" style="padding-right:5px;">
+  <img src="images/UI Images/createBlog.png" alt="Create Blog page" width="24%" style="padding-right:5px;">
+  <img src="images/UI Images/updateBlog.png" alt="Update Blog page" width="24%" style="padding-right:5px;">
+</div>
 
 ## 📫 Contact
 - Email: hemantkulhari4447@gmail.com
