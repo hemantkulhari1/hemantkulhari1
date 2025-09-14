@@ -1,9 +1,9 @@
 # Hi, I’m Hemant 👋
 
-**Full-stack developer | React | Node.js | MongoDB | Express**
+**MERN-stack developer | React | Node.js | MongoDB | Express**
 
 ## 🔭 About me
-- 👨‍💻 Working on: To-Do App & BlogBase
+- 👨‍💻 Currently working on: MERN-stack Hotel Booking Website, along with authentication(Clerk) and payment gateway(Stripe)
 - 🌱 Learning: Data Structures and Algorithms
 - ⚡ Fun: Coffee and short code experiments
 
@@ -15,6 +15,13 @@
 
 
 ## 🚀 Selected projects
+### [Portfolio Website](https://hemantkulhari-portfolio.netlify.app/)  
+Personal portfolio showcasing my projects, skills, and experience.  
+<div align="center">
+  <img src="images/portfolio_img1.png" alt="Portfolio screenshot 1" width="48%" style="padding-right:5px;">
+  <img src="images/portfolio_img2.png" alt="Portfolio screenshot 2" width="48%">
+</div>
+
 ### [To-Do App](https://github.com/hemantkulhari1/To-Do-App)  
 A simple but polished to-do app with local storage & clean UI.  
 <img src="images/todo-app-UI.png" alt="To-Do App UI" width="600">
@@ -27,6 +34,8 @@ Static blog with markdown support and responsive layout.
   <img src="images/UI Images/createBlog.png" alt="Create Blog page" width="24%" style="padding-right:5px;">
   <img src="images/UI Images/updateBlog.png" alt="Update Blog page" width="24%" style="padding-right:5px;">
 </div>
+
+
 
 ## 📫 Contact
 - Email: hemantkulhari4447@gmail.com
